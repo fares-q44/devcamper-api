@@ -1,4 +1,3 @@
-Great, here's a sample README.md file based on the information you provided:
 
 # DevCamper API
 
